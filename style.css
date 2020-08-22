@@ -9,7 +9,7 @@
     font-family:Poppins-Bold;
 }
 #top_button{
-    margin-left: 30%;
+    margin-left: 23%;
     font-weight: 400;
     font-size: 2vw;
     margin-top: 20%;
@@ -32,6 +32,8 @@
     padding-right: 5%;
     background-color:#6634CB;
 }
+
+
 .row button:hover
 {
     background-color: #7442c8 !important;
@@ -57,8 +59,8 @@
     text-align:center;
     font-size: 5vw;
     font-weight: 500px;
-    margin-top: 8%;
-
+    margin-top: 7%;
+    text-decoration: underline;
 }
 #text1{
     text-align: center;
@@ -114,9 +116,32 @@
 #main{
     margin-top: 12%;
 }
-#cat{
+#cat1{
+    font-size: 1.8vw;
+   font-weight: bold;
+   text-decoration: underline;
+    margin-top:-2rem;
+}
+#cat2{
     font-size: 1.6vw;
     text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
+}
+#cat3{
+    font-size: 1.6vw;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
+}
+#cat4{
+    font-size: 1.6vw;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
 }
 #cat span{
     font-size: 1.6vw;
@@ -136,7 +161,8 @@
     margin-left: 20%;
     border-radius: 60px;
     font-size: 1.5vw;
-    background-color:#6634CB;
+    background-color:white;
+    color: black;
     padding-left: 20%;
     padding-right: 20%;
 }
